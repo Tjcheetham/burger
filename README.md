@@ -10,7 +10,7 @@ Handlebars - ORM - Express.js - Node.js - MySQL - JavaScript
 
 ![Screenshot1](public/assets/img/2019-11-25.png)
 
-![Screenshot2](public/assets/img/2019-11-25 (1).png)
+![Screenshot2](public/assets/img/2019-11-25(1).png)
 
 ### Link
 Check it out!
