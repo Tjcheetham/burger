@@ -1,16 +1,16 @@
 # Burger
 
 ### Description
-
+As a restaurant owner, I wanted an app where users could enter the type of burger they'd like to eat. Once submitted, the burger is displayed on the left of the screen, waiting to be devoured. Once the user designates the burger 'devoured', it is displayed on the right of the screen.
 
 ### Technologies-Libraries
-Express.js - Node.js - MySQL - JavaScript
+Handlebars - ORM - Express.js - Node.js - MySQL - JavaScript
 
 ### Screenshots
 
-![Screenshot1](assets/images/2019-11-20 (2).png)
+![Screenshot1](assets/img/2019-11-25.png)
 
-![Screenshot2](assets/images/2019-11-20.png)
+![Screenshot2](assets/img/2019-11-25 (1).png)
 
 ### Link
 Check it out!
